@@ -1,0 +1,19 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+    height: 100px;
+}
+
+#packages .items{
+    flex-direction: column;
+}
+
+#packages .items .item{
+    width: 100%;
+}
+
+.workouts .workout{
+    flex-direction: column;
+}

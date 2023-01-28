@@ -1,0 +1,81 @@
+/* Text */
+
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+    font-size: 1.25rem;
+}
+
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size: 1.75rem;
+}
+
+/* Colors */
+
+.bg-dark-blue{
+    background: #282A3A;
+}
+
+.bg-dark-yellow{
+    background: #735F32 ;
+}
+
+.bg-soft-yellow{
+    background: #C69749 ;
+}
+
+/* Buttons */
+
+.btn{
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 12px;
+    letter-spacing: 0.5px;
+}
+
+.btn-primary{
+    background: #C69749;
+}
+
+.btn-primary:hover{
+    color: #C69749; 
+    background: #fff;
+    border: 1px solid #C69749;
+}
+
+.btn-block
+{
+    width: 100%;
+    text-align: center;
+}
+
+/* Container */
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Forms */
+
+.form-group{
+    padding: 0.25rem 0;
+}
+
+.form-group label{
+    display: block;
+}
+
+.form-control{
+    width: 100%;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    resize: none;
+}
